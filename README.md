@@ -16,4 +16,4 @@ completely compatible across all browsers and screen resolutions.
 ⚙️ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)</br>
 
 
-:speech_balloon: You can get in touch with me via [email](mailto:puer.robustus@gmail.com), [facebook](https://www.facebook.com/yar.bashmakov), [upwork](https://www.upwork.com/o/profiles/users/~0193083a7b1918cfbf/?s=1110580755107926016), [telegram](https://t.me/LaikaPanda)
+:speech_balloon: Feel free to contact with me via [email](mailto:puer.robustus@gmail.com), [facebook](https://www.facebook.com/yar.bashmakov), [upwork](https://www.upwork.com/o/profiles/users/~0193083a7b1918cfbf/?s=1110580755107926016), [telegram](https://t.me/LaikaPanda)
